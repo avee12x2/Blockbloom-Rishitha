@@ -1,2 +1,1 @@
-# Bebulu-Blockbloom
-Bebulu's Blockbloom DApp
+Rishitha's Blockboom Project
